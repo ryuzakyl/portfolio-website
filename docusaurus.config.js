@@ -42,12 +42,12 @@ module.exports = {
   title: "Victor M. Mendiola Lau",
   tagline: "A Senior Software Engineer passionate about solving meaningful problems at scale.",
   url: "https://ryuzakyl.github.io",
-  baseUrl: "/portfolio-website/",
+  baseUrl: "/",
   trailingSlash: false,
   onBrokenLinks: "throw",
   favicon: "img/logo.png",
   organizationName: "ryuzakyl",
-  projectName: "portfolio-website",
+  projectName: "ryuzakyl.github.io",
   themeConfig: {
     colorMode: {
       defaultMode: "dark",
@@ -124,7 +124,7 @@ module.exports = {
           // blogSidebarDate: 'YYYY/MM',
 
           // Please change this to your repo.
-          editUrl: "https://github.com/wellroundedtech/portfolio-victor-mendiola/",
+          editUrl: "https://github.com/ryuzakyl/portfolio-website/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
